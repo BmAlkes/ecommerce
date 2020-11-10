@@ -1,4 +1,4 @@
-let produtos = [
+let itensLoja = [
   {
     id: 1,
     name: "Red Printed T-Shirt",
@@ -19,10 +19,83 @@ let produtos = [
   {
     id: 3,
     name: "Fitness Panty",
-    img: "./assets/images/product-2.jpg",
+    img: "./assets/images/product-3.jpg",
+    price: 18.00,
+    sizes: ["40", "42", "44"," 46"],
+    description:"Soft-Confort",
+  },
+  {
+    id: 4,
+    name: "Polo Tshirt Puma",
+    img: "./assets/images/product-4.jpg",
     price: 15.00,
+    sizes: ["small", "medium", "large"," XLarge"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+  {
+    id: 5,
+    name: "White airShoes",
+    img: "./assets/images/product-5.jpg",
+    price:35.00,
     sizes: ["40", "42", "44"," 46"],
     description:"holiday for your feet, ultra comfortable with extra shock absorber.",
+  },
+  {
+    id: 6,
+    name: " Tshirt Puma",
+    img: "./assets/images/product-6.jpg",
+    price: 15.00,
+    sizes: ["small", "medium", "large"," XLarge"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+  {
+    id: 7,
+    name: "Hrx Sockets",
+    img: "./assets/images/product-7.jpg",
+    price: 15.00,
+    sizes: ["40", "42", "44"," 46"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+  {
+    id: 8,
+    name: "Fossil style Watch",
+    img: "./assets/images/product-8.jpg",
+    price: 15.00,
+    sizes: ["small", "medium", "large"," XLarge"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+  {
+    id: 9,
+    name: "TX Ultra Style Watch",
+    img: "./assets/images/product-9.jpg",
+    price: 15.00,
+    sizes: ["small", "medium", "large"," XLarge"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+  {
+    id: 10,
+    name: "HRX Blac Running Shoes",
+    img: "./assets/images/product-10.jpg",
+    price: 28.00,
+    sizes: ["40", "42", "44"," 46"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+  {
+    id: 11,
+    name: "White Running Shoes",
+    img: "./assets/images/product-11.jpg",
+    price: 32.00,
+    sizes: ["40", "42", "44"," 46"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
+  },
+
+  {
+    id: 12,
+    name: "Running Pants Puma",
+    img: "./assets/images/product-12.jpg",
+    price: 18.00,
+    sizes: ["40", "42", "44"," 46"],
+    description:"Give your summer Wardrobe a style upgrade with the HrX Men's Active T-Shirt. Team it with a pair of shorts for your morning workout or a denims for a evening out with the guys.",
   },
   
 ];
