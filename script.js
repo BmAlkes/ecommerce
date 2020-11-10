@@ -52,3 +52,9 @@ Script da store com Js
 
 
 
+
+
+itensLoja.map((item, index)=>{
+ let itemPro = document.querySelector('.col-4').cloneNode(true)
+ 
+})
